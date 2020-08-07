@@ -1,5 +1,5 @@
 public class Programa {
-    public static void main(String[] args){
+    public static void main(teste02[] args){
         System.out.println("Ola Mundo!");
 
     }
